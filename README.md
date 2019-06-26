@@ -1,5 +1,11 @@
 # Rubiks-Cube by Rohan Nair and Siddharth Tickle
 
+**NOTE: YOU MUST INSTALL THE PROCESSING IDE IN ORDER TO DEVELOP AND RUN THIS PROGRAM**
+
+**IDE INSTALL LINK: https://processing.org/download/**
+
+**GOOD YOUTUBE CHANNEL FOR TUTORIALS FOR LEARNING PROCESSING (it's really easy trust us on this): https://www.youtube.com/user/shiffman/playlists**
+
 This program emulates a Rubik's Cube in a 3-Dimensional environment using the Processing API for Java(no we did not copy from coding train)
 
 Upon starting this program, the cube will start off in a solved state and the front, right, left, back, up, and down sides are all mapped
